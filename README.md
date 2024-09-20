@@ -1,4 +1,4 @@
-# Magnificent-7 (M7) stocks analysis-volatility,trend and COVID-19 impact
+# Magnificent-7 (M7) stocks analysis-volatility, trend and COVID-19 impact
 
 Magnificent 7 comprises the 7 most influential technology stocks which are Apple, Microsoft, Google, Amazon, Nvidia, Meta and Tesla. The term was first used by Bank of America analyst Michael Hartnett to describe these stocks(1). These stocks have provided high returns and have become investor’s favorites in recent years(2). However, there are certain risks associated with these stocks such as overvaluation, future uncertainties, economic risks and regulations (3)(4). Hence, these risks and rewards need to be studied well for a secure investment. Although the past performance of a stock may not accurately predict how it will perform in the future, analyzing its trend, volatility and how it sustained in an adverse time can provide insights into these stock’s risks, rewards and resilience. In this report, I have analyzed the year-wise growth, monthly, quarterly and weekly trends and COVID-19 impact on these Magnificent 7 stocks.
 
