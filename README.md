@@ -1,6 +1,6 @@
 # Magnificent-7 (M7) stocks analysis-volatility,trend and COVID-19 impact
 
-Magnificent 7 comprises the 7 most influential technology stocks which are Apple, Microsoft, Google, Amazon, Nvidia, Meta and Tesla. The term was first used by Bank of America analyst Michael Hartnett to describe these stocks(1). These stocks have provided high returns and have become investor’s favorites in recent years(2). However, there are certain risks associated with these stocks such as overvaluation, future uncertainties, economic risks and regulations (3)(4)Hence, these risks and rewards need to be studied well for a secure investment. Although the past performance of a stock may not accurately predict how it will perform in the future, analyzing its trend, volatility and how it sustained in an adverse time can provide insights into these stock’s risks, rewards and resilience. In this report, I have analyzed the year-wise growth, monthly, quarterly and weekly trends and COVID-19 impact on these Magnificent 7 stocks.
+Magnificent 7 comprises the 7 most influential technology stocks which are Apple, Microsoft, Google, Amazon, Nvidia, Meta and Tesla. The term was first used by Bank of America analyst Michael Hartnett to describe these stocks(1). These stocks have provided high returns and have become investor’s favorites in recent years(2). However, there are certain risks associated with these stocks such as overvaluation, future uncertainties, economic risks and regulations (3)(4). Hence, these risks and rewards need to be studied well for a secure investment. Although the past performance of a stock may not accurately predict how it will perform in the future, analyzing its trend, volatility and how it sustained in an adverse time can provide insights into these stock’s risks, rewards and resilience. In this report, I have analyzed the year-wise growth, monthly, quarterly and weekly trends and COVID-19 impact on these Magnificent 7 stocks.
 
 The data for the analysis was obtained from Kaggle(5). The data includes the information on volume and open, close, high, low and adjusted close prices of these M7 stocks from 01/01/2013 to 12/29/2022. The data was analyzed on tableau public. The COVID impact dates were categorized as pre-COVID (2013/1/1-02/02/2020), COVID (02/02/2020-04/01/2022) and post-COVID (04/01/2022-12/29/2022). The category was based on an article on COVID-19 recession in Wikipedia where it is described that COVID 19 recession began in February 2020 and recovery began is April 2022 (6). 
 
@@ -13,6 +13,9 @@ https://public.tableau.com/app/profile/laxmi.dhungel/viz/Magnificient7_stock_ana
 **Magnificent 7 stock analysis (overall)**
 
 The screenshot of the report is provided below. The dashboard contains filters for the year and company. Selecting ALL will provide results for all the years combined and all the M7 companies. If interested in a particular year or company, then the filter can be used accordingly.
+
+https://public.tableau.com/app/profile/laxmi.dhungel/viz/M7_overallanalysis/Magnificient7stockanalysis
+
 
 ![Magnificient 7 stock analysis](https://github.com/user-attachments/assets/1d5eaf0f-b46f-4176-b08e-4e4c3d011b65)
 
@@ -40,6 +43,8 @@ Figure 6 shows year-wise growth (% change compared to the previous year) for eac
 
 The dates were categorized as pre-COVID, COVID and post-COVID based on the time when COVID recession and recovery started. The dashboard contains filters for company and COVID-19 impact time. 
 
+https://public.tableau.com/app/profile/laxmi.dhungel/viz/M7stocks_covidimpact/Covidimpact_M7
+
 
 ![Covid impact _M7](https://github.com/user-attachments/assets/6d4a72c8-2e20-436d-9073-0f21bb38b791)
 
@@ -49,29 +54,33 @@ Figure 8 (Heatmap) shows the change in average volume during COVID time and post
 
 Figure 9 shows the percentage change in closed price compared to the open price for different COVID impact dates. The Gnatt bar represents the average percentage change for each stock whereas different shapes represent maximum percentage change. The average percentage change in the close price compared to open price was negative for Amazon for all COVID impact times. **This suggests that on average the close price was lower than the open price for Amazon. During pre-COVID and COVID time, the remaining stocks had higher close prices than the open price on average.** During post-COVID time, the average change in close price percentage compared to open price was negative for Amazon, Google, Microsoft and Tesla whereas it was positive for Apple, Meta and Nvidia. Tesla had the highest decline (0.49%) in close price compared to the open price on average during the post-COVID time. The maximum percentage change in close price compared to open price was seen in COVID time for Meta, Microsoft, Nvidia and Tesla whereas it was seen in pre-COVID time for Amazon and Apple. Google had a maximum percentage change in close price compared to open price during post-COVID time. 
 
-Figure 10. shows the maximum and average price change (High-low %) in a day during different COVID impact dates. The average price change in a day was highest in post-COVID time for all the M7 stocks. The average price change in a day was the highest for Tesla in all the COVID impact times (pre, COVID and post). The average price change in a day was lowest for Microsoft in post-COVID time (2.62%) whereas it was lowest for Google in pre-COVID (1.66%) and COVID time (2.28%). The highest price change in a day occurred for Tesla in COVID time (23.08%). The maximum price change in a day occurred during pre-COVID time for most of the stocks except for Tesla and Microsoft. For Microsoft, the maximum price change occurred in COVID time. **This result suggests Tesla to be the most volatile stock whereas Google and Microsoft to be the least volatile stock. The highest volatility was observed during post-COVID time. 
-**
+Figure 10. shows the maximum and average price change (High-low %) in a day during different COVID impact dates. The average price change in a day was highest in post-COVID time for all the M7 stocks. The average price change in a day was the highest for Tesla in all the COVID impact times (pre, COVID and post). The average price change in a day was lowest for Microsoft in post-COVID time (2.62%) whereas it was lowest for Google in pre-COVID (1.66%) and COVID time (2.28%). The highest price change in a day occurred for Tesla in COVID time (23.08%). The maximum price change in a day occurred during pre-COVID time for most of the stocks except for Tesla and Microsoft. For Microsoft, the maximum price change occurred in COVID time. **This result suggests Tesla to be the most volatile stock whereas Google and Microsoft to be the least volatile stock. The highest volatility was observed during post-COVID time**. 
+
 
 
 **M7 Trend**
 
 This dashboard contains filters for the company and the COVID impact date. The filter for COVID impact date is set for pre-COVID time, however, it can be changed according to your interest. In this report, the monthly, quarterly and weekly trends will be described for pre-COVID time to prevent COVID-related bias on the trends. 
 
+
+https://public.tableau.com/app/profile/laxmi.dhungel/viz/M7trend/Trend_M7
+
+
 ![Trend_M7](https://github.com/user-attachments/assets/2c7d0bc7-32e5-4263-90ba-e28b0bd0a817)
 
-__Monthly trend__
+**Monthly trend**
 
 Figure 11 shows the percentage change in open price (Average) compared to the previous month. Overall (ALL filter), the highest decline in average open price occurred during February (-12.76%) whereas the highest increase occurred during May (4.78%). The study on individual stocks also showed a similar pattern of the highest percentage decline in February. However, the highest percentage increase varied among stocks (May (Amazon, Meta), June (Tesla), August (Apple, Google, Nvidia), and November (Microsoft)). This suggests that stock prices go down during February and rise higher during the summer months.
 
 Figure 12. shows the percentage change in open price (Average) in each month compared to prices in January. Overall, the prices were lowest in February and highest in November. The trend for the lowest price applied to all the individual companies, however, the trend for the highest price was in December for Tesla, Microsoft and Google. 
 
-**_Note: Figures 11 and 12 should not be confused. Figure 11 compares the price between the current month and the previous month whereas Figure 12 compares the price of each month with the price in January. For example, if a stock had a $10 open price in January, then the highest price in that year occurred in November (5.48% increase) with the stock price being $10.548 in the month. However, the stock price reached $9.9 in April (-9.87% compared to January) and jumped the highest (4.78%) to reach $9.95 in May. The trend has its significance based on the type of investment (short-term or long-term). The short-term investor may benefit by investing a month before the highest jump in the price whereas the long-term investor may benefit by investing a month with the lowest price in a year. 
-_**
+**Note: Figures 11 and 12 should not be confused. Figure 11 compares the price between the current month and the previous month whereas Figure 12 compares the price of each month with the price in January. For example, if a stock had a $10 open price in January, then the highest price in that year occurred in November (5.48% increase) with the stock price being $10.548 in the month. However, the stock price reached $9.9 in April (-9.87% compared to January) and jumped the highest (4.78%) to reach $9.95 in May. The trend has its significance based on the type of investment (short-term or long-term). The short-term investor may benefit by investing a month before the highest jump in the price whereas the long-term investor may benefit by investing a month with the lowest price in a year. 
+**
 
 
 Overall, the highest volume was in January and the highest volatility (high-low price fluctuation %) was seen in February. Individual stocks showed a similar trend for the highest volume (Except Google (Feb), Nvidia (Feb) and Tesla (May)). The highest volatility was seen in January for Apple and Meta, May for Tesla, October for Google and December for Microsoft. For most of the stocks, the month with the highest volume had the highest volatility (except Microsoft, Google and Amazon) (Figure 15). 
 
-**_Quarterly trend_**
+**Quarterly trend**
 
 Overall, the average open price increased with each quarter. The highest increase in the price was observed in quarter 3 (Q3) (Figure 13). The study on individual stocks showed that average open (bar) and close (star) prices decreased for Apple, Google, Nvidia and Tesla in quarter 2 (Q2). The overall trend of the highest increase in average open and close price applied for Amazon, Google, Nvidia and Tesla. However, Apple and Microsoft had the highest increase in Q4. Overall, volume decreased each quarter. And the price fluctuation was highest in Q1. However, Nvidia had the highest price fluctuation in Q4. The highest volume and price fluctuation was in Q2 for Tesla.
 
@@ -96,7 +105,7 @@ Overall, the volume was highest on Friday and lowest on Tuesday. The volatility 
 
 **Conclusion**
 
-Based on the growth of stocks, M7 seems a good investment as all the stocks have returned high profits. Tesla is the most volatile and has the greatest risk and reward. Google is the most stable M7 stock, however, has lower growth compared to other M7 stocks (Except Meta). There are negative growths in some years for some of these stocks, however, these stocks have fought these odds and have grown in the long run suggesting a good long-term investment. Despite being an adverse time these stocks performed well during COVID time. Rather, the performance declined, and the volatility was higher in post-COVID time. This suggests that a crisis may not accurately predict stock performances. Sometimes, it may present an opportunity for investments. The stock price was the lowest in February. For a long-term investor, this month may be the best time to invest. However, the prices jumped highest in May. So, short-term investors can invest in April to get the profit from the highest jump in prices. The highest increase in price occurred in Quarter 2. Further, stock prices were the most volatile on Monday. The price was lowest on Wednesday and highest on Friday. These trends can be utilized by short-term investors to get the maximum profits from these stocks. The highest jump in price varied with stocks, hence the company may need to be filtered in the story/dashboard to understand the best month/quarter/days to invest.
+Based on the growth of stocks, M7 seems a good investment as all the stocks have returned high profits. Tesla is the most volatile and has the greatest risk and reward. Google is the most stable M7 stock, however, has lower growth compared to other M7 stocks (Except Meta). There are negative growths in some years for some of these stocks, however, these stocks have fought these odds and have grown in the long run suggesting a good long-term investment. Despite being an adverse time these stocks performed well during COVID time. Rather, the performance declined, and the volatility was higher in post-COVID time. This suggests that a crisis may not accurately predict stock performances. Sometimes, it may present an opportunity for investors. The stock price was the lowest in February. For a long-term investor, this month may be the best time to invest. However, the prices jumped highest in May. So, short-term investors can invest in April to get the profit from the highest jump in prices. The highest increase in price occurred in Quarter 2. Further, stock prices were the most volatile on Monday. The price was lowest on Wednesday and highest on Friday. These trends can be utilized by short-term investors to get the maximum profits from these stocks. The highest jump in price varied with stocks, hence the company may need to be filtered in the story/dashboard to understand the best month/quarter/days to invest.
 
 
 **Limitation**
