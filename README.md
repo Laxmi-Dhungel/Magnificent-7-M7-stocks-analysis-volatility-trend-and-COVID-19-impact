@@ -65,15 +65,15 @@ Figure 11 shows the percentage change in open price (Average) compared to the pr
 
 Figure 12. shows the percentage change in open price (Average) in each month compared to prices in January. Overall, the prices were lowest in February and highest in November. The trend for the lowest price applied to all the individual companies, however, the trend for the highest price was in December for Tesla, Microsoft and Google. 
 
-_Note: Figures 11 and 12 should not be confused. Figure 11 compares the price between the current month and the previous month whereas Figure 12 compares the price of each month with the price in January. For example, if a stock had a $10 open price in January, then the highest price in that year occurred in November (5.48% increase) with the stock price being $10.548 in the month. However, the stock price reached $9.9 in April (-9.87% compared to January) and jumped the highest (4.78%) to reach $9.95 in May. The trend has its significance based on the type of investment (short-term or long-term). The short-term investor may benefit by investing a month before the highest jump in the price whereas the long-term investor may benefit by investing a month with the lowest price in a year. 
-_
+**_Note: Figures 11 and 12 should not be confused. Figure 11 compares the price between the current month and the previous month whereas Figure 12 compares the price of each month with the price in January. For example, if a stock had a $10 open price in January, then the highest price in that year occurred in November (5.48% increase) with the stock price being $10.548 in the month. However, the stock price reached $9.9 in April (-9.87% compared to January) and jumped the highest (4.78%) to reach $9.95 in May. The trend has its significance based on the type of investment (short-term or long-term). The short-term investor may benefit by investing a month before the highest jump in the price whereas the long-term investor may benefit by investing a month with the lowest price in a year. 
+_**
 Overall, the highest volume was in January and the highest volatility (high-low price fluctuation %) was seen in February. Individual stocks showed a similar trend for the highest volume (Except Google (Feb), Nvidia (Feb) and Tesla (May)). The highest volatility was seen in January for Apple and Meta, May for Tesla, October for Google and December for Microsoft. For most of the stocks, the month with the highest volume had the highest volatility (except Microsoft, Google and Amazon) (Figure 15). 
 
-_Quarterly trend_
+**_Quarterly trend_**
 
 Overall, the average open price increased with each quarter. The highest increase in the price was observed in quarter 3 (Q3) (Figure 13). The study on individual stocks showed that average open (bar) and close (star) prices decreased for Apple, Google, Nvidia and Tesla in quarter 2 (Q2). The overall trend of the highest increase in average open and close price applied for Amazon, Google, Nvidia and Tesla. However, Apple and Microsoft had the highest increase in Q4. Overall, volume decreased each quarter. And the price fluctuation was highest in Q1. However, Nvidia had the highest price fluctuation in Q4. The highest volume and price fluctuation was in Q2 for Tesla.
 
-_Weekly trend_
+**_Weekly trend_**
 
 Overall, the average open and close price decreased on Tuesday and Wednesday and increased on Thursday and Friday. The prices were lowest on Wednesday and highest on Friday. The open and close price trend of individual stock is summarized in heatmaps below (Figure 18 and 19). Some stocks had a slight increase in open price (Apple, Meta and Nvidia) and close price on Tuesday (Meta, Nvidia). Microsoft had a decrease in open and close prices on Thursday. Tesla had the highest close price on Thursday.
 
@@ -88,8 +88,8 @@ Figure 19. Change in close price (%). Monday is considered the baseline price. G
 
 Overall, the volume was highest on Friday and lowest on Tuesday. The volatility was highest on Monday and lowest on Friday. The highest volume on Friday applied for all the stocks (Except Apple (Wednesday), Meta (Thursday) and Tesla (Thursday)). The individual stocks showed a similar trend for volatility (Except Meta, Microsoft and Nvidia). Meta showed the highest volatility on Thursday and the lowest on Friday. Microsoft showed the highest volatility on Friday and the lowest on Tuesday. Nvidia had the highest volatility on Monday and the lowest on Tuesday. 
 
-_Note: (Overall- ALL filters have been used. It provides the average values of all the stocks). _
-
+**_Note: (Overall- ALL filters have been used. It provides the average values of all the stocks). _
+**
 **Conclusion**
 Based on the growth of stocks, M7 seems a good investment as all the stocks have returned high profits. Tesla is the most volatile and has the greatest risk and reward. Google is the most stable M7 stock, however, has lower growth compared to other M7 stocks (Except Meta). There are negative growths in some years for some of these stocks, however, these stocks have fought these odds and have grown in the long run suggesting a good long-term investment. Despite being an adverse time these stocks performed well during COVID time. Rather, the performance declined, and the volatility was higher in post-COVID time. This suggests that a crisis may not accurately predict stock performances. Sometimes, it may present an opportunity for investments. The stock price was the lowest in February. For a long-term investor, this month may be the best time to invest. However, the prices jumped highest in May. So, short-term investors can invest in April to get the profit from the highest jump in prices. The highest increase in price occurred in Quarter 2. Further, stock prices were the most volatile on Monday. The price was lowest on Wednesday and highest on Friday. These trends can be utilized by short-term investors to get the maximum profits from these stocks. The highest jump in price varied with stocks, hence the company may need to be filtered in the story/dashboard to understand the best month/quarter/days to invest.
 
