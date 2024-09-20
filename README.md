@@ -90,11 +90,12 @@ Figure 19. Change in close price (%). Monday is considered the baseline price. G
 
 Overall, the volume was highest on Friday and lowest on Tuesday. The volatility was highest on Monday and lowest on Friday. The highest volume on Friday applied for all the stocks (Except Apple (Wednesday), Meta (Thursday) and Tesla (Thursday)). The individual stocks showed a similar trend for volatility (Except Meta, Microsoft and Nvidia). Meta showed the highest volatility on Thursday and the lowest on Friday. Microsoft showed the highest volatility on Friday and the lowest on Tuesday. Nvidia had the highest volatility on Monday and the lowest on Tuesday. 
 
-**_Note: (Overall- ALL filters have been used. It provides the average values of all the stocks). _
-**
+****_Note: (Overall- ALL filters have been used. It provides the average values of all the stocks). _
+****
 
 
 **Conclusion**
+
 Based on the growth of stocks, M7 seems a good investment as all the stocks have returned high profits. Tesla is the most volatile and has the greatest risk and reward. Google is the most stable M7 stock, however, has lower growth compared to other M7 stocks (Except Meta). There are negative growths in some years for some of these stocks, however, these stocks have fought these odds and have grown in the long run suggesting a good long-term investment. Despite being an adverse time these stocks performed well during COVID time. Rather, the performance declined, and the volatility was higher in post-COVID time. This suggests that a crisis may not accurately predict stock performances. Sometimes, it may present an opportunity for investments. The stock price was the lowest in February. For a long-term investor, this month may be the best time to invest. However, the prices jumped highest in May. So, short-term investors can invest in April to get the profit from the highest jump in prices. The highest increase in price occurred in Quarter 2. Further, stock prices were the most volatile on Monday. The price was lowest on Wednesday and highest on Friday. These trends can be utilized by short-term investors to get the maximum profits from these stocks. The highest jump in price varied with stocks, hence the company may need to be filtered in the story/dashboard to understand the best month/quarter/days to invest.
 
 
