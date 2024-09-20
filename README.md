@@ -67,6 +67,8 @@ Figure 12. shows the percentage change in open price (Average) in each month com
 
 **_Note: Figures 11 and 12 should not be confused. Figure 11 compares the price between the current month and the previous month whereas Figure 12 compares the price of each month with the price in January. For example, if a stock had a $10 open price in January, then the highest price in that year occurred in November (5.48% increase) with the stock price being $10.548 in the month. However, the stock price reached $9.9 in April (-9.87% compared to January) and jumped the highest (4.78%) to reach $9.95 in May. The trend has its significance based on the type of investment (short-term or long-term). The short-term investor may benefit by investing a month before the highest jump in the price whereas the long-term investor may benefit by investing a month with the lowest price in a year. 
 _**
+
+
 Overall, the highest volume was in January and the highest volatility (high-low price fluctuation %) was seen in February. Individual stocks showed a similar trend for the highest volume (Except Google (Feb), Nvidia (Feb) and Tesla (May)). The highest volatility was seen in January for Apple and Meta, May for Tesla, October for Google and December for Microsoft. For most of the stocks, the month with the highest volume had the highest volatility (except Microsoft, Google and Amazon) (Figure 15). 
 
 **_Quarterly trend_**
@@ -90,11 +92,15 @@ Overall, the volume was highest on Friday and lowest on Tuesday. The volatility 
 
 **_Note: (Overall- ALL filters have been used. It provides the average values of all the stocks). _
 **
+
+
 **Conclusion**
 Based on the growth of stocks, M7 seems a good investment as all the stocks have returned high profits. Tesla is the most volatile and has the greatest risk and reward. Google is the most stable M7 stock, however, has lower growth compared to other M7 stocks (Except Meta). There are negative growths in some years for some of these stocks, however, these stocks have fought these odds and have grown in the long run suggesting a good long-term investment. Despite being an adverse time these stocks performed well during COVID time. Rather, the performance declined, and the volatility was higher in post-COVID time. This suggests that a crisis may not accurately predict stock performances. Sometimes, it may present an opportunity for investments. The stock price was the lowest in February. For a long-term investor, this month may be the best time to invest. However, the prices jumped highest in May. So, short-term investors can invest in April to get the profit from the highest jump in prices. The highest increase in price occurred in Quarter 2. Further, stock prices were the most volatile on Monday. The price was lowest on Wednesday and highest on Friday. These trends can be utilized by short-term investors to get the maximum profits from these stocks. The highest jump in price varied with stocks, hence the company may need to be filtered in the story/dashboard to understand the best month/quarter/days to invest.
 
 
 **Limitation**
+
+
 The data ranged from 01-01-2013 to 12-29-2022. The post-COVID time included time after 04-01-2022. Thus, this may not exactly represent a post-COVID time (years) but would represent an initial stage of the recovery. Further, this report provides an analysis of the past performance of these M7 stocks, however past performance does not always accurately predict future performance. However, these stocks have overcome past challenges and grown suggesting higher resilience. 
 
 
