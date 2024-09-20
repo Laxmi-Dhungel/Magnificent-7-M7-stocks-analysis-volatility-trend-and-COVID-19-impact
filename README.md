@@ -90,8 +90,8 @@ Figure 19. Change in close price (%). Monday is considered the baseline price. G
 
 Overall, the volume was highest on Friday and lowest on Tuesday. The volatility was highest on Monday and lowest on Friday. The highest volume on Friday applied for all the stocks (Except Apple (Wednesday), Meta (Thursday) and Tesla (Thursday)). The individual stocks showed a similar trend for volatility (Except Meta, Microsoft and Nvidia). Meta showed the highest volatility on Thursday and the lowest on Friday. Microsoft showed the highest volatility on Friday and the lowest on Tuesday. Nvidia had the highest volatility on Monday and the lowest on Tuesday. 
 
-****_Note: (Overall- ALL filters have been used. It provides the average values of all the stocks). _
-****
+**Note: (Overall- ALL filters have been used. It provides the average values of all the stocks).** 
+
 
 
 **Conclusion**
