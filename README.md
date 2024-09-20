@@ -59,7 +59,7 @@ This dashboard contains filters for the company and the COVID impact date. The f
 
 ![Trend_M7](https://github.com/user-attachments/assets/2c7d0bc7-32e5-4263-90ba-e28b0bd0a817)
 
-_Monthly trend_
+__Monthly trend__
 
 Figure 11 shows the percentage change in open price (Average) compared to the previous month. Overall (ALL filter), the highest decline in average open price occurred during February (-12.76%) whereas the highest increase occurred during May (4.78%). The study on individual stocks also showed a similar pattern of the highest percentage decline in February. However, the highest percentage increase varied among stocks (May (Amazon, Meta), June (Tesla), August (Apple, Google, Nvidia), and November (Microsoft)). This suggests that stock prices go down during February and rise higher during the summer months.
 
